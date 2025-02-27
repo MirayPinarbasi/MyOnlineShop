@@ -1,2 +1,2 @@
 # MyOnlineShop
-Online Shop with Decorator
+Online Shop with OOP
